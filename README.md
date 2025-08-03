@@ -22,10 +22,11 @@ This project automates student attendance using face recognition technology. It 
 
 1. Clone this repository:
    git clone https://https://github.com/Samruddhiiii/Smart-Attendance.git
+   
 Install required dependencies:
-  ex: pip install opencv-python numpy pandas
+   ex: pip install opencv-python numpy pandas
 Train the recognition model:
-  python train_model.py
+   python train_model.py
 Run the attendance system:
   python main.py
 Attendance will be saved in Attendance.csv.
